@@ -1,6 +1,64 @@
 # Houdini-junichirohorikawa
-Youtube Algorithmic Live: https://www.youtube.com/watch?v=7GT5B4b3dFs&list=PLzRzqTjuGIDizRMLtogMjkG8XpuPcb6ZM
-Youtube Algorithmic Design: https://www.youtube.com/watch?v=V5i6KM_-8X0&list=PLzRzqTjuGIDhiXsP0hN3qBxAZ6lkVfGDI
-Youtube Tutorials: https://www.youtube.com/watch?v=YwQcWNQ1NCw&list=PLzRzqTjuGIDgtI8wIsWVkU2-AVyDH91QM
-
-
+# [01.Youtube Tutorials](https://www.youtube.com/watch?v=YwQcWNQ1NCw&list=PLzRzqTjuGIDgtI8wIsWVkU2-AVyDH91QM)
+---
+- [ ] 001
+- [ ] 002
+- [ ] 003
+- [ ] 004
+- [ ] 005
+- [ ] 006
+- [ ] 007
+- [ ] 008
+- [ ] 009
+- [ ] 010
+---
+- [ ] 011
+- [ ] 012
+- [ ] 013
+- [ ] 014
+- [ ] 015
+- [ ] 016
+- [ ] 017
+- [ ] 018
+- [ ] 019
+- [ ] 020
+---
+- [ ] 021
+- [ ] 022
+- [ ] 023
+- [ ] 024
+- [ ] 025
+- [ ] 026
+- [ ] 027
+- [ ] 028
+- [ ] 029
+- [ ] 030
+---
+- [ ] 031
+- [ ] 032
+- [ ] 033
+- [ ] 034
+- [ ] 035
+- [ ] 036
+- [ ] 037
+- [ ] 038
+- [ ] 039
+- [ ] 040
+---
+- [ ] 041
+- [ ] 042
+- [ ] 043
+- [ ] 044
+- [ ] 045
+- [ ] 046
+- [ ] 047
+- [ ] 048
+- [ ] 049
+- [ ] 050
+---
+- [ ] 051
+- [ ] 052
+- [ ] Sp052
+- [ ] Sp054
+# [02.Youtube Algorithmic Live](https://www.youtube.com/watch?v=7GT5B4b3dFs&list=PLzRzqTjuGIDizRMLtogMjkG8XpuPcb6ZM)
+# [03.Youtube Algorithmic Design](https://www.youtube.com/watch?v=V5i6KM_-8X0&list=PLzRzqTjuGIDhiXsP0hN3qBxAZ6lkVfGDI)
